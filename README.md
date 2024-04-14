@@ -1,2 +1,2 @@
 # It's Abhay7111 Here
-gaama.top
+https://plick.netlify.com
