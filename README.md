@@ -21,6 +21,9 @@ Here are some of the projects I've worked on:
 
 - **LinkedIn:** [Abhay Vishwakarma](https://www.linkedin.com/in/abhay-vishwakarma-a72005259/)
 - **Email:** gaamagaming@gmail.com
+## Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhay7111&layout=compact&theme=radical)
 
 ## GitHub Stats
 
