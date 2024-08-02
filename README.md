@@ -27,11 +27,11 @@ Here are some of the projects I've worked on:
 - **Email:** gaamagaming@gmail.com
 ## Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhay7111&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhay7111&layout=compact)
 
 ## GitHub Stats
 
-![Abhay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhay7111&show_icons=true&theme=radical)
+![Abhay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhay7111&show_icons=true)
 
 ## Languages and Tools
 
