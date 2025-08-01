@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm a passionate web developer with 1 year of expe
 
 - ## portfolio
 
-- **[portfolio]([https://www.gaama.top](https://abhay7111-pr.netlify.app/))**
+- **[portfolio](https://abhay7111-pr.netlify.app/)**
 
 ## Projects
 
