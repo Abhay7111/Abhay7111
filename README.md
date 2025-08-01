@@ -9,9 +9,9 @@ Welcome to my GitHub profile! I'm a passionate web developer with 1 year of expe
 - **Experience:** 1 year in web development
 - **Skills:** JavaScript, React, HTML, CSS, Node.js, Express, MongoDB ...
 
-- ## Website
+- ## portfolio
 
-- **[website](https://www.gaama.top)**
+- **[portfolio]([https://www.gaama.top](https://abhay7111-pr.netlify.app/))**
 
 ## Projects
 
