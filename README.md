@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I’m a passionate web developer with 1 year of ex
 - - **LinkedIn:** [Abhay Vishwakarma](https://www.linkedin.com/in/abhay-vishwakarma-a72005259/)
 - **Email:** [gaamagaming@gmail.com](mailto:gaamagaming@gmail.com)
 - **Whatsapp:** [+91 7408638739](tel:+917408638739)
- [portfolio](https://abhay7111-pr.netlify.app/)
+- [portfolio](https://abhay7111-pr.netlify.app/)
 
 ## Projects
 
