@@ -9,16 +9,16 @@ Welcome to my GitHub profile! I’m a passionate web developer with 1 year of ex
 ## contacts
 - - **LinkedIn:** [Abhay Vishwakarma](https://www.linkedin.com/in/abhay-vishwakarma-a72005259/)
 - **Email:** [gaamagaming@gmail.com](mailto:gaamagaming@gmail.com)
-- **Whatsapp:** [+91 74086 38739](tel:+917408638739)
+- **Whatsapp:** [+91 74086 38739](https://tel:+917408638739)
 - [portfolio](https://abhay7111-pr.netlify.app/)
 
 ## Projects
 
 Here are some of the projects I've worked on:
 
-- [Voice/chat assistant](https://abhay7111-voice-assistant.netlify.app/)
-- [Github Clone](https://abhay7111github.netlify.app/)
-- [Blog](https://separatedigital.netlify.app/Blog)
+- [prasa ruddy](https://prasa-ruddy.vercel.app/)
+- [Github Clone](https://abhay7111github.netlify.app/) -> [main](https://www.github.com/)
+- [Ochi clone](https://abhay7111.netlify.app/) -> [main](https://ochi.design/)
 - [Biz growth](https://biz-growth.netlify.app/)
 
 
@@ -37,13 +37,17 @@ Here are some of the projects I've worked on:
 - **Hindi:** 98%
 - **English:** 50%
 
-## Most Used Languages
+
+## Leetcode
+
+### JavaScript
+- **Starting from** :- Sep/07/2025
+- *30 Days of JavaScript*
+
+
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhay7111&layout=compact)
 
-## GitHub Stats
-
 ![Abhay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhay7111&show_icons=true)
-
 
 Thanks for visiting my profile, and feel free to check out my repositories!
