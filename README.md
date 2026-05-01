@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I’m a passionate web developer with 1 year of ex
 - - **LinkedIn:** [Abhay Vishwakarma](https://www.linkedin.com/in/abhay-vishwakarma-a72005259/)
 - **Email:** [gaamagaming@gmail.com](mailto:gaamagaming@gmail.com)
 - **Whatsapp:** [+91 74086 38739](https://tel:+917408638739)
-- [portfolio](https://abhay7111-pr.netlify.app/)
+- [portfolio](https://abhay7111.netlify.app/)
 
 ## Projects
 
@@ -31,23 +31,3 @@ Here are some of the projects I've worked on:
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=Node.js)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
 ![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
-
-## Language 
-
-- **Hindi:** 98%
-- **English:** 50%
-
-
-## Leetcode
-
-### JavaScript
-- **Starting from** :- Sep/07/2025
-- *30 Days of JavaScript*
-
-
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhay7111&layout=compact)
-
-![Abhay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhay7111&show_icons=true)
-
-Thanks for visiting my profile, and feel free to check out my repositories!
