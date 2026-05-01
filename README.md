@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I’m a passionate web developer with 1 year of ex
 - **Skills:** JavaScript, React, HTML, CSS, Node.js, Express, MongoDB ...
 
 ## contacts
-- - **LinkedIn:** [Abhay Vishwakarma](https://www.linkedin.com/in/abhay-vishwakarma-a72005259/)
+- **LinkedIn:** [Abhay Vishwakarma](https://www.linkedin.com/in/abhay-vishwakarma-a72005259/)
 - **Email:** [gaamagaming@gmail.com](mailto:gaamagaming@gmail.com)
 - **Whatsapp:** [+91 74086 38739](https://tel:+917408638739)
 - [portfolio](https://abhay7111.netlify.app/)
